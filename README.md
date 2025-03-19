@@ -10,6 +10,7 @@
 - Create BrowserRouter  Routes > Route=/ Body > RoutChildren
 - Create an Outlet in your Body Component
 - Create a Footer
+- create a Login page
 
 
 
